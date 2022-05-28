@@ -32,3 +32,25 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+In this Project, i have successfully completed it and made a website for a restaurant
+for ordering food items.
+In this website following things are being used
+• NodeJs (Backend)
+• ReactJs (Frontend)
+• MongoDB (Database)
+• JWT ( Authentication)
+• Paypal (Payment Gateway)
+• cloudinary
+
+First i made the front end of the website where i have created different pages for the website like
+footer,header, sliding page, product page, cart page, payment page, admin dashboard and delivery page.
+After that i had to add the support for MongoDB server where the product and
+order details will be stored.
+The next task was to integrate the payment system required to do the transaction, So paypal api were used which were integrated into the payment page.
+Next.js was used for making admin dashboard which can trak the order details
+and update the status which will be shown in delivery page.
+
+Finally a buttton was added where you can add new products by just upload
+the image and adding required details. For storing images cloudinary is being used.
+The file path is stored in MogoDB server.
