@@ -36,12 +36,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 In this Project, i have successfully completed it and made a website for a restaurant
 for ordering food items.
 In this website following things are being used
-• NodeJs (Backend)
-• ReactJs (Frontend)
-• MongoDB (Database)
-• JWT ( Authentication)
-• Paypal (Payment Gateway)
-• cloudinary
+
+- NodeJs (Backend)
+- ReactJs (Frontend)
+- MongoDB (Database)
+- JWT ( Authentication)
+- Paypal (Payment Gateway)
+- cloudinary
 
 First i made the front end of the website where i have created different pages for the website like
 footer,header, sliding page, product page, cart page, payment page, admin dashboard and delivery page.
