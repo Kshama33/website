@@ -47,11 +47,11 @@ In this website following things are being used
 First i made the front end of the website where i have created different pages for the website like
 footer,header, sliding page, product page, cart page, payment page, admin dashboard and delivery page.
 After that i had to add the support for MongoDB server where the product and
-order details will be stored.
+order details are stored.
 
-The next task was to integrate the payment system required to do the transaction, So paypal api were used which were integrated into the payment page.
+Payment system required to do the transaction is done using paypal api were are used in payment page.
 
-Next.js was used for making admin dashboard which can trak the order details
+Next.js is used for making admin dashboard which can trak the order details
 and update the status which will be shown in delivery page.
 
 Finally a buttton was added where you can add new products by just upload
