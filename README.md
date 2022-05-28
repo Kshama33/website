@@ -48,7 +48,9 @@ First i made the front end of the website where i have created different pages f
 footer,header, sliding page, product page, cart page, payment page, admin dashboard and delivery page.
 After that i had to add the support for MongoDB server where the product and
 order details will be stored.
+
 The next task was to integrate the payment system required to do the transaction, So paypal api were used which were integrated into the payment page.
+
 Next.js was used for making admin dashboard which can trak the order details
 and update the status which will be shown in delivery page.
 
